@@ -1,5 +1,5 @@
 <h1>StudINA<h1></br>
-Hi👋! I am Vivien Christy Apriyanti from Batam, Indonesia. I am a Information Systems student who started learning iOS App Development at Apple Developer Academy @Infinite Learning Batam.
+Hi👋! I am Vivien Christy Apriyanti from Batam, Indonesia. I am an Information Systems student who started learning iOS App Development at Apple Developer Academy @Infinite Learning Batam.
   
 <h2>About This App</h2>
 Indonesia is a country with various ethnicities and cultures. Ethnic groups in Indonesia are often associated with their own distinctive form of Rumah Adat. Rumah Adat (rumah is house, and adat is tradition. Rumah adat is traditional house) is one of Indonesia's cultural heritage. 
